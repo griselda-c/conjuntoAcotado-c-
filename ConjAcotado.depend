@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1433209902 source:/home/griselda/Escritorio/ConjAcotado/ConjAcotado.cpp
+	"ConjAcotado.h"
+	<cassert>
+	<cstddef>
+	<vector>
+
+1433209697 /home/griselda/Escritorio/ConjAcotado/ConjAcotado.h
+	<list>
+	<vector>
+
+1433209860 source:/home/griselda/Escritorio/ConjAcotado/testConjAcotado.cpp
+	<iostream>
+	"ConjAcotado.h"
+	<list>
+
